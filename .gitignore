@@ -1,0 +1,9 @@
+*.o
+*.d
+*.lst
+*.3dsx
+*.elf
+*.smdh
+*.map
+testing-data/*
+nbtest-pc/nblib-test
